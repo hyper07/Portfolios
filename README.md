@@ -14,4 +14,4 @@
 - [Table library on SharePoint](https://github.com/hyper07/Table)
 
 ## Others
-- [Find alike people in R](https://github.com/hyper07/R_ImageMatching)
+- [Image matching in R](https://github.com/hyper07/R_ImageMatching)
